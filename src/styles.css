@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+.calculator {
+  margin: auto;
+  width: 18em;
+  align-items: center;
+  text-align: center;
+}
+.user {
+  text-align: right;
+  margin-right: 10%;
+}
+.erase {
+  margin-left: -11.35em;
+}
+button {
+  cursor: pointer;
+  font: inherit;
+  width: 3em;
+  margin: 0.3em;
+}
